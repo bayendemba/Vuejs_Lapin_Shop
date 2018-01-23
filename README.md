@@ -1,9 +1,10 @@
-# Vuejs Exemple
+# Apprendre Vuejs 
 
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
+Le code source [](http://#).
 
 ### Project Lapin Shop
 
 #### Demo
 
-See the completed project here: [http://#](http://#)
+Le demo sera disponible apres mise en ligne du site
+Le lien sera ICI: [http://#](http://#)
